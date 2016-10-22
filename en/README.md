@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module xLanguage
-#### for XOOPS 2.5.7
+# Module Random Quote
+#### for XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
             
@@ -12,9 +12,9 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module is to show Random Quotes in blocks
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the xLanguage Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
