@@ -4,13 +4,13 @@
 
 ## Module Random Quote
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
       
 ![logoModule.png](.gitbook/assets/logomodule.png)
             
 ### User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ### Module Purpose
 
